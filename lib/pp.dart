@@ -77,7 +77,7 @@ class _FormWithAllInputsState extends State<FormWithAllInputs> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Form with Various Inputs'),
+        title: Text('Form With Various Inputs'),
         backgroundColor: Colors.pinkAccent,
       ),
       body: Padding(
